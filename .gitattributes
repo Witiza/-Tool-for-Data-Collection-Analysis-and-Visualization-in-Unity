@@ -1,1 +1,1 @@
-*.docx diff=zip
+*.docx diff=pandoc
